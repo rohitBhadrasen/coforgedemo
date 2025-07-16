@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_niit3_git_test_0_githubdemotest</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>rohit.bhadrasen</sys_created_by>
+        <sys_created_on>2025-07-16 08:36:40</sys_created_on>
+        <sys_id>70502f0987fa26103c49ca69cebb35d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_niit3_git_test_0_githubdemotest</sys_name>
+        <sys_package display_value="Git Test - Rohit" source="x_niit3_git_test_0">87c6db7c87b6e2103c49ca69cebb35a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git Test - Rohit">87c6db7c87b6e2103c49ca69cebb35a7</sys_scope>
+        <sys_update_name>sys_security_acl_70502f0987fa26103c49ca69cebb35d3</sys_update_name>
+        <sys_updated_by>rohit.bhadrasen</sys_updated_by>
+        <sys_updated_on>2025-07-16 08:36:40</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
